@@ -1,10 +1,12 @@
-name,company,date,link
-Volkswagen Sustainability Report 2018,Volkswagen Group,2019-03-10,https://web.archive.org/web/20201211194012/https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2018/Nonfinancial_Report_2018_e.pdf
-Volkswagen Sustainability Report 2019,Volkswagen Group,2020-03-17,https://web.archive.org/web/20210122090622/https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2019/Nonfinancial_Report_2019_e.pdf
-Volkswagen Sustainability Report 2020,Volkswagen Group,2021-03-16,https://web.archive.org/web/20210407210403/https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2020/Nonfinancial_Report_2020_e.pdf
-Microsoft 2020 Environmental Sustainability Report,Microsoft Corporation,,https://web.archive.org/web/20210604152455/https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWyG1q
-BMW Group Report 2020,BMW Group,,https://web.archive.org/web/20210612122214/https://www.press.bmwgroup.com/global/article/attachment/T0327938EN/474234
-Toyota Environmental Report 2020,Toyota Motor Corporation,,https://web.archive.org/web/20201207141252/https://global.toyota/pages/global_toyota/sustainability/report/er/er20_en.pdf
-H&M Group Sustainability Performance Report 2020,H&M Group,,https://web.archive.org/web/20210402100805/https://hmgroup.com/wp-content/uploads/2021/03/HM-Group-Sustainability-Performance-Report-2020.pdf
-H&M Group Sustainability Performance Report 2019,H&M Group,,https://web.archive.org/web/20210226145216/https://hmgroup.com/wp-content/uploads/2020/10/HM-Group-Sustainability-Performance-Report-2019.pdf
-RWE Sustainability Report 2020,RWE AG,,https://web.archive.org/web/20210428113728/https://www.group.rwe/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/cr-report-2020.pdf
+name,company,date,year,link
+Volkswagen Sustainability Report 2018,Volkswagen Group,2019-03-10,2018,https://web.archive.org/web/20201211194012/https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2018/Nonfinancial_Report_2018_e.pdf
+Volkswagen Sustainability Report 2019,Volkswagen Group,2020-03-17,2019,https://web.archive.org/web/20210122090622/https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2019/Nonfinancial_Report_2019_e.pdf
+Volkswagen Sustainability Report 2020,Volkswagen Group,2021-03-16,2020,https://web.archive.org/web/20210407210403/https://www.volkswagenag.com/presence/nachhaltigkeit/documents/sustainability-report/2020/Nonfinancial_Report_2020_e.pdf
+Microsoft 2020 Environmental Sustainability Report,Microsoft Corporation,,2020,https://web.archive.org/web/20210604152455/https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWyG1q
+BMW Group Report 2020,BMW Group,,2020,https://web.archive.org/web/20210612122214/https://www.press.bmwgroup.com/global/article/attachment/T0327938EN/474234
+Toyota Environmental Report 2020,Toyota Motor Corporation,,2020,https://web.archive.org/web/20201207141252/https://global.toyota/pages/global_toyota/sustainability/report/er/er20_en.pdf
+H&M Group Sustainability Performance Report 2020,H&M Group,,2020,https://web.archive.org/web/20210402100805/https://hmgroup.com/wp-content/uploads/2021/03/HM-Group-Sustainability-Performance-Report-2020.pdf
+H&M Group Sustainability Performance Report 2019,H&M Group,,2019,https://web.archive.org/web/20210226145216/https://hmgroup.com/wp-content/uploads/2020/10/HM-Group-Sustainability-Performance-Report-2019.pdf
+RWE Sustainability Report 2020,RWE AG,,2020,https://web.archive.org/web/20210428113728/https://www.group.rwe/-/media/RWE/documents/09-verantwortung-nachhaltigkeit/cr-berichte/EN/cr-report-2020.pdf
+Lufthansa Group Nachhaltigkeitsbericht 2019,Lufthansa Group,,2019,https://web.archive.org/web/20210123113109/https://www.lufthansagroup.com/media/downloads/de/verantwortung/LH-Nachhaltigkeitsbericht-2019.pdf
+Adidas Green Company Performance Analysis 2020,Adidas AG,,2020,https://web.archive.org/web/20210623172541/https://www.adidas-group.com/media/filer_public/f8/10/f8105750-28cb-4a13-9e2c-7031785b2c92/adidas_gcr_2020_en.pdf
