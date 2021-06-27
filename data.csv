@@ -17,24 +17,30 @@
 15,Microsoft Corporation,2020,CO2 emissions Scope 3,Microsoft 2020 Environmental Sustainability Report,77,1584.0
 16,H&M Group,2018,CO2 emissions Scope 3,H&M Group Sustainability Performance Report 2019,53,17662000.0
 17,H&M Group,2019,CO2 emissions Scope 3,H&M Group Sustainability Performance Report 2020,52,17387000.0
-18,Toyota Motor Corporation,2017,CO2 emissions Scope 3,Toyota Environmental Report 2020,37,412010000.0
-19,Toyota Motor Corporation,2018,CO2 emissions Scope 3,Toyota Environmental Report 2020,37,414910000.0
-20,Toyota Motor Corporation,2019,CO2 emissions Scope 3,Toyota Environmental Report 2020,37,397940000.0
-21,RWE AG,2020,CO2 emissions Scope 1,RWE Sustainability Report 2020,78,70400000.0
-22,RWE AG,2020,CO2 emissions Scope 2,RWE Sustainability Report 2020,78,2600000.0
-23,RWE AG,2020,CO2 emissions Scope 3,RWE Sustainability Report 2020,78,18900000.0
-24,Lufthansa Group,2017,CO2 emissions Scope 1,Lufthansa Group Nachhaltigkeitsbericht 2019,5,28949145.0
-25,Lufthansa Group,2017,CO2 emissions Scope 2,Lufthansa Group Nachhaltigkeitsbericht 2019,5,256232.0
-26,Lufthansa Group,2017,CO2 emissions Scope 3,Lufthansa Group Nachhaltigkeitsbericht 2019,5,10678859.0
-27,Lufthansa Group,2018,CO2 emissions Scope 1,Lufthansa Group Nachhaltigkeitsbericht 2019,5,32790778.0
-28,Lufthansa Group,2018,CO2 emissions Scope 2,Lufthansa Group Nachhaltigkeitsbericht 2019,5,194059.0
-29,Lufthansa Group,2018,CO2 emissions Scope 3,Lufthansa Group Nachhaltigkeitsbericht 2019,5,11089327.0
-30,Lufthansa Group,2019,CO2 emissions Scope 1,Lufthansa Group Nachhaltigkeitsbericht 2019,5,33349293.0
-31,Lufthansa Group,2019,CO2 emissions Scope 2,Lufthansa Group Nachhaltigkeitsbericht 2019,5,199817.0
-32,Lufthansa Group,2019,CO2 emissions Scope 3,Lufthansa Group Nachhaltigkeitsbericht 2019,5,10588707.0
-33,Adidas AG,2020,CO2 emissions Scope 1,Adidas Green Company Performance Analysis 2020,10,6748000.0
-34,Adidas AG,2020,CO2 emissions Scope 2,Adidas Green Company Performance Analysis 2020,10,20008000.0
-35,Adidas AG,2020,CO2 emissions Scope 3,Adidas Green Company Performance Analysis 2020,10,
-36,Nestlé S.A.,2018,CO2 emissions Scope 1,Nestlé’s Net Zero Roadmap,6,3300000.0
-37,Nestlé S.A.,2018,CO2 emissions Scope 2,Nestlé’s Net Zero Roadmap,6,2500000.0
-38,Nestlé S.A.,2018,CO2 emissions Scope 3,Nestlé’s Net Zero Roadmap,6,107300000.0
+18,Toyota Motor Corporation,2017,CO2 emissions Scope 1,Toyota Environmental Report 2020,37,1750000.0
+19,Toyota Motor Corporation,2017,CO2 emissions Scope 2,Toyota Environmental Report 2020,37,4190000.0
+20,Toyota Motor Corporation,2017,CO2 emissions Scope 3,Toyota Environmental Report 2020,37,412010000.0
+21,Toyota Motor Corporation,2018,CO2 emissions Scope 1,Toyota Environmental Report 2020,37,1920000.0
+22,Toyota Motor Corporation,2018,CO2 emissions Scope 2,Toyota Environmental Report 2020,37,4080000.0
+23,Toyota Motor Corporation,2018,CO2 emissions Scope 3,Toyota Environmental Report 2020,37,414910000.0
+24,Toyota Motor Corporation,2019,CO2 emissions Scope 1,Toyota Environmental Report 2020,37,1900000.0
+25,Toyota Motor Corporation,2019,CO2 emissions Scope 2,Toyota Environmental Report 2020,37,3780000.0
+26,Toyota Motor Corporation,2019,CO2 emissions Scope 3,Toyota Environmental Report 2020,37,397940000.0
+27,RWE AG,2020,CO2 emissions Scope 1,RWE Sustainability Report 2020,78,70400000.0
+28,RWE AG,2020,CO2 emissions Scope 2,RWE Sustainability Report 2020,78,2600000.0
+29,RWE AG,2020,CO2 emissions Scope 3,RWE Sustainability Report 2020,78,18900000.0
+30,Lufthansa Group,2017,CO2 emissions Scope 1,Lufthansa Group Nachhaltigkeitsbericht 2019,5,28949145.0
+31,Lufthansa Group,2017,CO2 emissions Scope 2,Lufthansa Group Nachhaltigkeitsbericht 2019,5,256232.0
+32,Lufthansa Group,2017,CO2 emissions Scope 3,Lufthansa Group Nachhaltigkeitsbericht 2019,5,10678859.0
+33,Lufthansa Group,2018,CO2 emissions Scope 1,Lufthansa Group Nachhaltigkeitsbericht 2019,5,32790778.0
+34,Lufthansa Group,2018,CO2 emissions Scope 2,Lufthansa Group Nachhaltigkeitsbericht 2019,5,194059.0
+35,Lufthansa Group,2018,CO2 emissions Scope 3,Lufthansa Group Nachhaltigkeitsbericht 2019,5,11089327.0
+36,Lufthansa Group,2019,CO2 emissions Scope 1,Lufthansa Group Nachhaltigkeitsbericht 2019,5,33349293.0
+37,Lufthansa Group,2019,CO2 emissions Scope 2,Lufthansa Group Nachhaltigkeitsbericht 2019,5,199817.0
+38,Lufthansa Group,2019,CO2 emissions Scope 3,Lufthansa Group Nachhaltigkeitsbericht 2019,5,10588707.0
+39,Adidas AG,2020,CO2 emissions Scope 1,Adidas Green Company Performance Analysis 2020,10,6748000.0
+40,Adidas AG,2020,CO2 emissions Scope 2,Adidas Green Company Performance Analysis 2020,10,20008000.0
+41,Adidas AG,2020,CO2 emissions Scope 3,Adidas Green Company Performance Analysis 2020,10,
+42,Nestlé S.A.,2018,CO2 emissions Scope 1,Nestlé’s Net Zero Roadmap,6,3300000.0
+43,Nestlé S.A.,2018,CO2 emissions Scope 2,Nestlé’s Net Zero Roadmap,6,2500000.0
+44,Nestlé S.A.,2018,CO2 emissions Scope 3,Nestlé’s Net Zero Roadmap,6,107300000.0
