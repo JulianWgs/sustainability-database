@@ -1,6 +1,7 @@
 name,industry
 Volkswagen Group,Automotive
 Microsoft Corporation,Technology
+Apple Inc.,Technology
 BMW Group,Automotive
 H&M Group,Apparel
 Adidas AG,Apparel
@@ -8,3 +9,4 @@ Toyota Motor Corporation,Automotive
 RWE AG,Energy
 Lufthansa Group,Aviation
 Nestlé S.A.,Food
+EnBW Energie Baden-Württemberg AG,Energy
