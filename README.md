@@ -1,8 +1,8 @@
-# Green.Review
+# Sustainability Database
 
-Check out the [website](https://julianwgs.github.io/sustainability-goals-review/).
+Check out the [dashboard](https://sustainability-database.herokuapp.com/).
 
-I couldn't find a website comparing the progress of companies reaching their sustainability goals. That's why I made one. All data needed to create the plots is also available in the repository. The code to create the plots is not yet published.
+I couldn't find a website comparing the progress of companies reaching their sustainability goals. That's why I made one. The code for the dashboard can be found [here](https://github.com/JulianWgs/sustainability-database-dashboard).
 
 The data is gathered from sustainability reports of the companies. All links to the resources can be found in `resources.csv`. The extracted data is contained in the `data.csv`. A list of companies can be found in `companies.csv`.
 
